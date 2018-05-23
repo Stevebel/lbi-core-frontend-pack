@@ -4,6 +4,10 @@
     "description": "A set of extensions that aid in Angular development",
     "version": "1.0.0",
     "publisher": "sbeller",
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/Stevebel/lbi-core-frontend-pack"
+    },
     "engines": {
         "vscode": "^1.23.0"
     },
