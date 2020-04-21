@@ -2,7 +2,7 @@
     "name": "lbi-core-frontend-pack",
     "displayName": "LBi Core Frontend Pack",
     "description": "A set of extensions that aid in Angular development",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "sbeller",
     "repository": {
         "type": "github",
@@ -16,14 +16,11 @@
     ],
     "extensionDependencies": [ 
         "Angular.ng-template", 
-        "christian-kohler.npm-intellisense", 
         "EditorConfig.EditorConfig", 
-        "eg2.tslint",
+        "ms-vscode.vscode-typescript-tslint-plugin",
         "Mikael.Angular-BeastCode", 
-        "mrmlnc.vscode-scss", 
         "natewallace.angular2-inline", 
         "robertohuertasm.vscode-icons", 
-        "HookyQR.beautify",
-        "esbenp.prettier-vscode"
+        "HookyQR.beautify"
     ]
 }
